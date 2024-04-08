@@ -16,7 +16,7 @@ This is a simple Weather App built using React that fetches weather data from a 
 - React.js
 - JavaScript
 - HTML/CSS
-- [Weather API](https://openweathermap.org/current) - Replace this with the API you're using.
+- [Weather API](https://openweathermap.org/current).
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
